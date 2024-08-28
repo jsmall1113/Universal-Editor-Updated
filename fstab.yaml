@@ -1,6 +1,6 @@
 mountpoints:
-  # /: https://author-p138552-e1404003.adobeaemcloud.com/bin/franklin.delivery/jsmall1113/universal-editor-updated
+  # /: https://author-p138552-e1404003.adobeaemcloud.com/bin/franklin.delivery/jsmall1113/universal-editor-updated/main
   /:
-    url: "https://author-p99452-e916802.adobeaemcloud.com/bin/franklin.delivery/tuckerelliott/sol-sc-boilerplate-xwalk/main"
+    url: "https://author-p138552-e1404003.adobeaemcloud.com/bin/franklin.delivery/jsmall1113/universal-editor-updated/main"
     type: "markup"
     suffix: ".html"
