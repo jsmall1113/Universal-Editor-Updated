@@ -1,5 +1,5 @@
 mountpoints:
-  # /: https://adobe.sharepoint.com/:f:/r/sites/Solution-LedMSCTeam/Shared%20Documents/General/Edge%20Delivery%20Projects/sol-sc-boilerplate-xwalk
+  # /: https://author-p138552-e1404003.adobeaemcloud.com/bin/franklin.delivery/jsmall1113/universal-editor-updated
   /:
     url: "https://author-p99452-e916802.adobeaemcloud.com/bin/franklin.delivery/tuckerelliott/sol-sc-boilerplate-xwalk/main"
     type: "markup"
